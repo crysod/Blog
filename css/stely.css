@@ -18,7 +18,7 @@ body{
 }
 /*HEADER*/
 
-/*.header .top-header{
+.header .top-header{
     padding: 6px 0;
     font-size: 12px;
     border-bottom: 1px solid #f0f0f0;
@@ -117,22 +117,22 @@ body{
 
 .menu-principal .contenedor ul li a:hover{
     color: #8b919c;
-}*/
+}
 
 /*MAIN*/
 /*BANNER*/
-/*.main .banner{
+.main .banner{
     padding-bottom: 20px;
 border-bottom: 1px solid #f0f0f0;
 }
 
 .main .banner .contenedor .banner-principal img{
     width: 100%;
-}*/
+}
 
 /*BLOG*/
 
-/*.blog{
+.blog{
     background: #f7f7f7;
     padding: 40px;
 }
@@ -208,11 +208,11 @@ border-bottom: 1px solid #f0f0f0;
 .blog .contenedor .articulos-blog .articulo .boton a:hover{
     background: #7d7d7d;
     color: #fff;
-}*/
+}
 
 /*ASIDE*/
 
-/*.aside{
+.aside{
     float: right;
     width: 28%;
 }
@@ -286,10 +286,10 @@ border-bottom: 1px solid #f0f0f0;
 
 /*FOOTER*/
 
-/*.footer{
+.footer{
     background: #fff;
-    /* padding: 40px;
+    padding: 40px;
     border: 1px solid     #f0f0f0;
     color: #9c9c9c;
     text-align: center;
-}*/
+}
